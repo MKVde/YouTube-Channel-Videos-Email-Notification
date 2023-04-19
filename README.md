@@ -101,12 +101,12 @@ To use this script, you will need:
 
 ### Usage:
 
-1. Copy or download the script from GitHub to your local machine.
-
-2. Open the script file (youtube_videos_email_notification.py) in your favorite code editor or IDE.
-
-3. Here are the steps to create a YouTube Data API key:
-
+**1. Copy or download the script from GitHub to your local machine.
+**
+**2. Open the script file (youtube_videos_email_notification.py) in your favorite code editor or IDE.
+**
+**3. Here are the steps to create a YouTube Data API key:
+**
 - Go to the Google Cloud Console (https://console.cloud.google.com/) and create a new project or select an existing project.
 
 - In the project dashboard, navigate to the APIs & Services section and click on "Dashboard".
