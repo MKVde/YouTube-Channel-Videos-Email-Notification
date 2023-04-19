@@ -88,18 +88,18 @@ This script is free and open source software, released under the MIT License. Yo
 
 YouTube Channel Videos Email Notification Script:
 
-Overview:
+### Overview:
 
 This script periodically sends an email with links to the videos uploaded in the past week (default) to a specified YouTube channel. It uses the YouTube Data API to retrieve the list of videos and the SMTP protocol to send the email. You can configure the script to use your own API key, email credentials, and email content.
 
-Requirements:
+### Requirements:
 To use this script, you will need:
 
 - A Google Cloud project with the YouTube Data API enabled and an API key.
 - A valid email account with SMTP access, such as Gmail, Outlook, or your own custom email server.
 - Python3 installed on your system with the required modules (requests,  google-auth, google-auth-oauthlib, google-auth-httplib2) installed.
 
-Usage:
+### Usage:
 
 1. Copy or download the script from GitHub to your local machine.
 
@@ -146,7 +146,7 @@ Usage:
 
 ---
 
-Code Explanation: The script is divided into several parts, each responsible for a specific task. Here's a brief overview of the main parts of the code and their purpose:
+### Code Explanation: The script is divided into several parts, each responsible for a specific task. Here's a brief overview of the main parts of the code and their purpose:
 
 1. Importing the required modules:
 The first section of the code imports the required Python modules for the script to run. These include:
@@ -208,7 +208,7 @@ The final section of the code sends the email message using the SMTP protocol. I
  
 
 -------------
-Example:
+### Example:
 Here is example of how to use this script:
 
 I recommend using Outlook instead of Gmail or Yahoo because you won't need to enable the "Less secure apps" feature.
@@ -267,7 +267,7 @@ I recommend using Outlook instead of Gmail or Yahoo because you won't need to en
     YouTube Channel Videos Email Notification Bot. "
 
 
-Conclusion:
+### Conclusion:
 This script provides a simple and automated way to receive email notifications for new videos uploaded to a YouTube channel. By following the instructions in this documentation and customizing the script to your needs, you can easily set up this functionality for your own YouTube channels or for those of your clients or collaborators.    
 
     
