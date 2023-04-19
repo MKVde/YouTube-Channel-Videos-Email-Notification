@@ -255,7 +255,7 @@ I recommend using Outlook instead of Gmail or Yahoo because you won't need to en
     Link: https://www.youtube.com/watch?v=1593574682
     Thumbnail: https://image-6.jpg
 
-    7. Title: This Product Shouldn't Exist
+    7. Title: Dope Tech: Better than Expected!
     Link: https://www.youtube.com/watch?v=7894561230
     Thumbnail: https://image-7.jpg
 
