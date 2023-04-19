@@ -2,7 +2,7 @@
 # YouTube Channel Videos Email Notification
 
 
-This script sends an email once a week with links to all the videos on a specified YouTube channel that were uploaded in the past week.
+This script sends an email once a week (you can change the period) with links to all the videos on a specified YouTube channel that were uploaded in the past week (default).
 
 ## Installation
 
@@ -55,17 +55,17 @@ This script is free and open source software, released under the MIT License. Yo
 #### How do I set up and use the script?
 
 - You'll need to obtain an API key from the Google Cloud Console and specify the API key, YouTube channel ID, sender email, recipient email, email password, and time interval in the script.
-- You can then run the script to send the weekly email.
+- You can then run the script to send the weekly  (default) email.
 
 #### Can I customize the email message?
 
 - Yes, you can customize the email message by modifying the msg object in the script. You can change the email subject, sender email, recipient email, and the email body. The email body is constructed by looping through the videos returned by the YouTube API and adding their links to the email body.
 
-#### Can I change the time interval for the weekly email?
+#### Can I change the time interval for the weekly (default) email?
 
 -  Yes, you can change the time_interval variable in the script to the number of days you want to go back to check for new videos. For example, if you want to check for new videos uploaded in the past 14 days, you can set time_interval to 14.
 
-#### What email service can I use with this script to send the weekly email updates?
+#### What email service can I use with this script to send the weekly (default) email updates?
 
 - You can use any email service that supports the SMTP protocol, such as Gmail, Outlook, Yahoo, or your own custom email server. In the script, the email is sent using the SMTP server of Office 365, but you can modify the script to use a different SMTP server if needed. Note that some email services may require you to enable "less secure app access" or generate an "app password" to use their SMTP server from a script like this. Make sure to check your email service's documentation for instructions on how to set up SMTP access.
 
@@ -90,7 +90,7 @@ YouTube Channel Videos Email Notification Script:
 
 Overview:
 
-This script periodically sends an email with links to the videos uploaded in the past week to a specified YouTube channel. It uses the YouTube Data API to retrieve the list of videos and the SMTP protocol to send the email. You can configure the script to use your own API key, email credentials, and email content.
+This script periodically sends an email with links to the videos uploaded in the past week (default) to a specified YouTube channel. It uses the YouTube Data API to retrieve the list of videos and the SMTP protocol to send the email. You can configure the script to use your own API key, email credentials, and email content.
 
 Requirements:
 To use this script, you will need:
