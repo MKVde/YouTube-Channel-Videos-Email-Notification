@@ -50,7 +50,7 @@ This script is free and open source software, released under the MIT License. Yo
 
 #### The script sends the email using the SMTP protocol 
 
-- This script sends an email once a week with links to all the videos on a specified YouTube channel.
+- This script sends an email once a week (default) with links to all the videos on a specified YouTube channel.
 
 #### How do I set up and use the script?
 
