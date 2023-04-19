@@ -2,7 +2,7 @@
 # YouTube Channel Videos Email Notification
 
 
-This script sends an email once a week (you can change the period) with links to all the videos on a specified YouTube channel that were uploaded in the past week (default).
+This script sends an email once a week (you can change the duration) with links to all the videos on a specified YouTube channel that were uploaded in the past week (default).
 
 ## Installation
 
