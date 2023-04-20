@@ -37,7 +37,7 @@ To use this script, you will need to set the following variables:
 Once you have set these variables, you can run the script by running the following command:
 
 ```Way
-youtube_channel_videos_email_notification.py
+youtube_weekly_video_email.py
 ```
 
 
