@@ -231,7 +231,7 @@ I recommend using Outlook instead of Gmail or Yahoo because you won't need to en
 
     Here are the videos uploaded in the past 7 days by MKBHD:
 
-    1. Title: A Hidden Google Assistant Feature!
+    1. Title: A Hidden Google Assistant Feature!                  
     Link: https://www.youtube.com/watch?v=1234567890
     Thumbnail: https://image-1.jpg
 
